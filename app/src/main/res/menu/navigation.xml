@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/nav_lend"
+        android:title="Lent"
+        android:icon="@drawable/ic_baseline_send_24"
+        />
+    <item
+        android:id="@+id/nav_borrow"
+        android:title="Borrowed"
+        android:icon="@drawable/ic_baseline_borrowed_24"
+        />
+</menu>
