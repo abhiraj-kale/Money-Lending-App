@@ -30,7 +30,7 @@
         android:layout_marginRight="1dp"
         android:layout_marginBottom="70dp"
         android:gravity="center_horizontal"
-        android:text="Total Money Lent: Rs.0"
+        android:text="Total Money Sent: Rs.0"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="20sp"
