@@ -7,12 +7,12 @@
         />
     <item
         android:id="@+id/nav_lend"
-        android:title="Lent"
+        android:title="Sent"
         android:icon="@drawable/ic_baseline_send_24"
         />
     <item
         android:id="@+id/nav_borrow"
-        android:title="Borrowed"
+        android:title="Received"
         android:icon="@drawable/ic_baseline_borrowed_24"
         />
 </menu>
