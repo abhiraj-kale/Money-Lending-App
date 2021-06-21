@@ -213,7 +213,7 @@ public class LentMoney extends Fragment {
                             tableLayout.addView(new_tableRow);
                         }
                         TextView tv_total_money = view.findViewById(R.id.total_money_lent);
-                        String str_tot_money = "Total Money Lent: Rs." + TOTAL_MONEY_LENT;
+                        String str_tot_money = "Total Money Sent: Rs." + TOTAL_MONEY_LENT;
                         tv_total_money.setText(str_tot_money);
                         pg.setVisibility(View.INVISIBLE);
 
