@@ -1,4 +1,4 @@
-package com.example.moneylending;
+package com.example.moneypayment;
 
 import android.app.AlertDialog;
 import android.database.Cursor;
@@ -23,6 +23,7 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.example.moneylending.R;
 
 import org.jetbrains.annotations.NotNull;
 import org.json.JSONArray;

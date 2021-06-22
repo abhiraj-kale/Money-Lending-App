@@ -1,4 +1,4 @@
-package com.example.moneylending;
+package com.example.moneypayment;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,7 +18,8 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.moneylending.ui.CustomClickListener;
+import com.example.moneylending.R;
+import com.example.moneypayment.ui.CustomClickListener;
 
 import org.jetbrains.annotations.NotNull;
 import org.json.JSONException;

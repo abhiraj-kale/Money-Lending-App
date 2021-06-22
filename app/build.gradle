@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.moneylending"
+        applicationId "com.example.moneypayment"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

@@ -13,14 +13,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MoneyLending">
-        <activity android:name=".addMoney" />
-        <activity android:name=".payment" />
-        <activity android:name=".search" />
-        <activity android:name=".signup" />
-        <activity android:name=".login" />
-        <activity android:name=".AccountScreen" />
+        <activity android:name="com.example.moneypayment.addMoney" />
+        <activity android:name="com.example.moneypayment.payment" />
+        <activity android:name="com.example.moneypayment.search" />
+        <activity android:name="com.example.moneypayment.signup" />
+        <activity android:name="com.example.moneypayment.login" />
+        <activity android:name="com.example.moneypayment.AccountScreen" />
         <activity
-            android:name=".SpashScreen"
+            android:name="com.example.moneypayment.SpashScreen"
             android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +28,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.moneypayment.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>

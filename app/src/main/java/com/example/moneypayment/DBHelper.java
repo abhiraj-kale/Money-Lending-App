@@ -1,4 +1,4 @@
-package com.example.moneylending;
+package com.example.moneypayment;
 
 import android.content.ContentValues;
 import android.content.Context;

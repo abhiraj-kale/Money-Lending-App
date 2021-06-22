@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/yellow_500"
     android:theme="@style/AppTheme"
-    tools:context=".SpashScreen">
+    tools:context="com.example.moneypayment.SpashScreen">
 
     <TextView
         android:id="@+id/textView"

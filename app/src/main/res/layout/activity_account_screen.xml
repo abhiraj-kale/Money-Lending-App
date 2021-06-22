@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AccountScreen">
+    tools:context="com.example.moneypayment.AccountScreen">
 
     <TextView
         android:id="@+id/textView2"

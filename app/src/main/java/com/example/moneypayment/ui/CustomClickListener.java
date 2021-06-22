@@ -1,4 +1,4 @@
-package com.example.moneylending.ui;
+package com.example.moneypayment.ui;
 
 import android.os.SystemClock;
 import android.view.View;
